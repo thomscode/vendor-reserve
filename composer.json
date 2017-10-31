@@ -1,0 +1,15 @@
+{
+    "name": "thomscode/vendor-reserve",
+    "description": "Reserving the thomscode vendor",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ThomsCode",
+            "email": "thomscdode@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "prefer-stable": true
+}
